@@ -1,0 +1,2 @@
+1,eva(997809952) rodrigo (994471759),C:\Users\User\AppData\Local\Python\pythoncore-3.14-64\python.exe c:/Users/User/OneDrive/Desktop/lab_5/contactos.py
+2,eva,997809952
