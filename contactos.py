@@ -91,7 +91,7 @@ def leer_binario():
         while True:
             datos = f.read(TAM_REGISTRO)
             if not datos:
-                break)
+                break
             id_, nombre, telefono = struct.unpack(FORMATO, datos)
             nombre = nombre.rstrip(b"\x00").decode("utf-8")
             telefono = telefono.rstrip(b"\x00").decode("utf-8")
